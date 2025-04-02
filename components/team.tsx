@@ -10,7 +10,25 @@ export default function Team() {
     },
     {
       name: "Edward Lai",
+      position: "Logistics Lead",
+      imageUrl: "/placeholder.svg?height=500&width=500",
+      linkedinUrl: "https://linkedin.com",
+    },
+    {
+      name: "Savir Dillakar",
       position: "Finance Lead",
+      imageUrl: "/placeholder.svg?height=500&width=500",
+      linkedinUrl: "https://linkedin.com",
+    },
+    {
+      name: "Utkarsh Joshi",
+      position: "Logistics / Finance Team",
+      imageUrl: "/placeholder.svg?height=500&width=500",
+      linkedinUrl: "https://linkedin.com",
+    },
+    {
+      name: "Kara Liu",
+      position: "Hype Team",
       imageUrl: "/placeholder.svg?height=500&width=500",
       linkedinUrl: "https://linkedin.com",
     },
