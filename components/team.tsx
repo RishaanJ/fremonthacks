@@ -36,7 +36,7 @@ export default function TeamTree() {
           {/* Logistics Lead */}
           <div className="relative flex flex-col items-center">
             <div className="absolute -top-16 left-1/2 -translate-x-1/2 w-0.5 h-16 bg-gray-300"></div>
-            <TeamCard name="Utkarsh" role="Logistics Lead" />
+            <TeamCard name="Utkarsh Joshi" role="Logistics Lead" />
 
             {/* Vertical line to team members */}
             <div className="w-0.5 h-16 bg-gray-300 my-4"></div>

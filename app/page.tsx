@@ -9,6 +9,8 @@ import Faq from "@/components/faq"
 import Footer from "@/components/footer"
 import CursorEffect from "@/components/cursor-effect"
 import Navbar from "@/components/navbar"
+import Head from 'next/head'
+
 
 import { useState } from 'react'
 

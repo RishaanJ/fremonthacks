@@ -22,7 +22,7 @@ export default function About() {
           animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
           transition={{ duration: 0.6 }}
         >
-          <h2 className="text-3xl md:text-4xl font-bold mb-6">About FremontHacks</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-6">What is FremontHacks?</h2>
           <p className="text-lg leading-relaxed opacity-80">
             FremontHacks is a 12-hour high school hackathon where students collaborate to build innovative projects.
             Whether you're a coding expert or just starting out, our inclusive environment welcomes all skill levels.
