@@ -93,7 +93,7 @@ export default function Faq() {
           transition={{ duration: 0.6, delay: 0.6 }}
         >
           <p className="text-lg font-medium mb-2">Still have questions?</p>
-          <a href="mailto:help@fremonthacks.net" className="text-lg underline hover:opacity-80">
+          <a href="mailto:help@fremonthacks.org" className="text-lg underline hover:opacity-80">
             help@fremonthacks.net
           </a>
         </motion.div>

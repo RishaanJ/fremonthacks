@@ -4,6 +4,7 @@ import { useState, useEffect } from "react"
 import { motion } from "framer-motion"
 import Link from "next/link"
 
+
 export default function Hero() {
   const [glitchActive, setGlitchActive] = useState(false)
 
@@ -53,13 +54,13 @@ export default function Hero() {
         transition={{ duration: 0.5, delay: 0.6 }}
       >
         <Link
-          href="#register"
-          className="px-8 py-3 border-2 border-black font-medium transition-all duration-300 hover:bg-black hover:text-white"
+          href="https://app.youform.com/forms/ixbbauc4"
+          className="px-8 py-3 border-2 border-black font-medium transition-all duration-300 hover:bg-black hover:text-white" target="_blank"
         >
           Register Now
         </Link>
         <Link
-          href="#sponsor"
+          href="/hacks.pdf" target="_blank"
           className="px-6 py-2 border border-black/50 font-medium transition-all duration-300 hover:border-black"
         >
           Sponsor Us
