@@ -14,7 +14,7 @@ export default function Footer() {
     { name: "Tracks", href: "#tracks" },
     { name: "Schedule", href: "#schedule" },
     { name: "Team", href: "#team" },
-    { name: "FAQ", href: "#faq" },
+    { name: "Donate", href: "https://gofund.me/05ff46a8" },
   ]
 
   return (
