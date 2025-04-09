@@ -14,7 +14,7 @@ export default function Footer() {
     { name: "Tracks", href: "#tracks" },
     { name: "Schedule", href: "#schedule" },
     { name: "Team", href: "#team" },
-    { name: "Donate", href: "https://gofund.me/05ff46a8" },
+    { name: "Donate", href: "https://hcb.hackclub.com/donations/start/fremont-hacks-b85ecc83-17ce-4445-9727-0f71c418b769" },
   ]
 
   return (

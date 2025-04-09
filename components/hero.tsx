@@ -60,10 +60,10 @@ export default function Hero() {
           Register Now
         </Link>
         <Link
-          href="/hacks.pdf" target="_blank"
+          href="https://hcb.hackclub.com/donations/start/fremont-hacks-b85ecc83-17ce-4445-9727-0f71c418b769" target="_blank"
           className="px-6 py-2 border border-black/50 font-medium transition-all duration-300 hover:border-black"
         >
-          Sponsor Us
+          Donate!
         </Link>
       </motion.div>
     </section>
