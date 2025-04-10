@@ -9,13 +9,13 @@ export default function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   const navLinks = [
-    { name: "Home", href: "#" },
+    { name: "Home", href: "/" },
     { name: "About", href: "#about" },
     { name: "Tracks", href: "#tracks" },
     { name: "Prizes", href: "#prizes" },
     { name: "Schedule", href: "#schedule" },
     { name: "Team", href: "#team" },
-    { name: "FAQ", href: "#faq" },
+    { name: "Sponsor Us", href: "/sponsor" },
   ]
 
   useEffect(() => {
@@ -42,7 +42,7 @@ export default function Navbar() {
     >
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         {/* Logo on left */}
-        <Link href="#" className="font-bold text-lg">
+        <Link href="/" className="font-bold text-lg">
           FREMONT<span className="font-light">HACKS</span>
         </Link>
 

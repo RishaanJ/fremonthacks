@@ -10,7 +10,7 @@ export default function About() {
   const stats = [
     { value: "150+", label: "Hackers" },
     { value: "12", label: "Hours" },
-    { value: "$1000+", label: "Cash Prizes" },
+    { value: "TBD", label: "Cash Prizes" },
     { value: "10+", label: "Workshops" },
   ]
 

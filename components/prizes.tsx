@@ -227,7 +227,7 @@ export default function Prizes() {
             Join our growing list of sponsors and support the next generation of innovators.
           </p>
           <Button asChild size="lg" className="px-8">
-            <Link href="#contact">Become a Sponsor</Link>
+            <Link href="/sponsor">Become a Sponsor</Link>
           </Button>
         </motion.div>
       </div>
