@@ -16,6 +16,7 @@ export default function Navbar() {
     { name: "Schedule", href: "#schedule" },
     { name: "Team", href: "#team" },
     { name: "Sponsor Us", href: "/sponsor" },
+    { name: "Apply", href:"/apply"}
   ]
 
   useEffect(() => {
